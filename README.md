@@ -1,0 +1,1 @@
+# Htmx with django implementation
